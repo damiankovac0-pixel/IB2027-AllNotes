@@ -1,0 +1,65 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:\"HL/ComputerScience/A Concepts of Computer Science/A1 Computer fundamentals\"",
+      "color": {
+        "a": 1,
+        "rgb": 3447003
+      }
+    },
+    {
+      "query": "path:\"HL/ComputerScience/A Concepts of Computer Science/A2 Networks\"",
+      "color": {
+        "a": 1,
+        "rgb": 3066993
+      }
+    },
+    {
+      "query": "path:\"HL/ComputerScience/A Concepts of Computer Science/A3 Databases\"",
+      "color": {
+        "a": 1,
+        "rgb": 10181046
+      }
+    },
+    {
+      "query": "path:\"HL/ComputerScience/A Concepts of Computer Science/A4 Machine learning\"",
+      "color": {
+        "a": 1,
+        "rgb": 15105570
+      }
+    },
+    {
+      "query": "path:\"HL/ComputerScience/B Computational Thinking and Problem Solving/B1\" OR path:\"HL/ComputerScience/B Computational Thinking and Problem Solving/B2\"",
+      "color": {
+        "a": 1,
+        "rgb": 15158332
+      }
+    },
+    {
+      "query": "path:\"HL/ComputerScience/B Computational Thinking and Problem Solving/B3\" OR path:\"HL/ComputerScience/B Computational Thinking and Problem Solving/B4\"",
+      "color": {
+        "a": 1,
+        "rgb": 1752220
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.5793412263685491,
+  "close": false
+}

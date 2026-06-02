@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "8e95aca0350b381c",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e8e427c4c690095",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dde36408741f6b0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HL/ComputerScience/A Concepts of Computer Science/A4 Machine learning/A4.3 Machine learning approaches/A4.3.3 Hyperparameter tuning and evaluation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A4.3.3 Hyperparameter tuning and evaluation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1320e319fddaa61d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1762a83b5772aeef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f98a512b8d0899e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d4b4e0f35b71fa12",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2f899deb92c174b2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 660.5
+  },
+  "right": {
+    "id": "4be2d41bd9db696a",
+    "type": "split",
+    "children": [
+      {
+        "id": "62d32f271dfbe30e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77b83e52e0d977d9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c9600dfbf60d3b14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "77369b86f3942413",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d872329e0541ec32",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "56458aed267ac5a6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "dde36408741f6b0d",
+  "lastOpenFiles": [
+    "HL/ComputerScience/A Concepts of Computer Science/A4 Machine learning/Topic Review Questions.md",
+    "HL/ComputerScience/A Concepts of Computer Science/A4 Machine learning/A4.3 Machine learning approaches/A4.3.4 Clustering.md",
+    "HL/ComputerScience/A Concepts of Computer Science/A4 Machine learning/A4.3 Machine learning approaches/A4.3.3 Hyperparameter tuning and evaluation.md",
+    "HL/ComputerScience/A Concepts of Computer Science/A4 Machine learning/A4.3 Machine learning approaches/A4.3.2 Classification techniques.md",
+    "HL/ComputerScience/A Concepts of Computer Science/A4 Machine learning/A4.3 Machine learning approaches/A4.3.1 Linear regression.md",
+    "HL/ComputerScience/A Concepts of Computer Science/A4 Machine learning/A4.3 Machine learning approaches/A4.3 Machine learning approaches.md",
+    "HL/ComputerScience/A Concepts of Computer Science/A4 Machine learning/A4.2 Data preprocessing/A4.2.3 Dimensionality reduction.md",
+    "HL/ComputerScience/A Concepts of Computer Science/A4 Machine learning/A4.2 Data preprocessing/A4.2.2 Feature selection.md",
+    "HL/ComputerScience/A Concepts of Computer Science/A4 Machine learning/A4.2 Data preprocessing/A4.2.1 Data cleaning.md",
+    "HL/ComputerScience/A Concepts of Computer Science/A4 Machine learning/A4.2 Data preprocessing/A4.2 Data preprocessing.md",
+    "HL/ComputerScience/A Concepts of Computer Science/A4 Machine learning/A4.1 Machine learning fundamentals/A4.1.2 Hardware for machine learning.md",
+    "HL/ComputerScience/A Concepts of Computer Science/A4 Machine learning/A4.1 Machine learning fundamentals/A4.1.1 Types of machine learning.md",
+    "HL/ComputerScience/A Concepts of Computer Science/A4 Machine learning/A4.1 Machine learning fundamentals/A4.1.1 Real-world ML applications.md",
+    "HL/ComputerScience/A Concepts of Computer Science/A4 Machine learning/A4.1 Machine learning fundamentals/A4.1.0 AI and ML foundations.md",
+    "HL/ComputerScience/A Concepts of Computer Science/A4 Machine learning/A4.1 Machine learning fundamentals/A4.1 Machine learning fundamentals.md",
+    "HL/ComputerScience/A Concepts of Computer Science/A1 Computer fundamentals/A1.4 Translation/A1.4.1 Interpreters and compilers.md",
+    "HL/ComputerScience/A Concepts of Computer Science/A1 Computer fundamentals/A1.4 Translation/A1.4 Translation.md",
+    "HL/ComputerScience/A Concepts of Computer Science/A1 Computer fundamentals/A1.3 Operating systems and control systems/A1.3.7 Real-world control systems.md",
+    "HL/ComputerScience/A Concepts of Computer Science/A1 Computer fundamentals/A1.3 Operating systems and control systems/A1.3.5 Multitasking and resource allocation.md",
+    "HL/ComputerScience/A Concepts of Computer Science/A1 Computer fundamentals/A1.3 Operating systems and control systems/A1.3.4 Polling and interrupt handling.md",
+    "HL/ComputerScience/A Concepts of Computer Science/A1 Computer fundamentals/A1.3 Operating systems and control systems/A1.3.2 Functions of an operating system.md",
+    "HL/ComputerScience/A Concepts of Computer Science/A1 Computer fundamentals/A1.3 Operating systems and control systems/A1.3.1 Role of operating systems.md",
+    "HL/ComputerScience/A Concepts of Computer Science/A1 Computer fundamentals/A1.3 Operating systems and control systems/A1.3 Operating systems and control systems.md",
+    "HL/ComputerScience/A Concepts of Computer Science/A1 Computer fundamentals/A1.2 Data representation and computer logic/A1.2.3 Logic gates.md",
+    "HL/ComputerScience/A Concepts of Computer Science/A1 Computer fundamentals/A1.2 Data representation and computer logic/A1.2.4 Truth tables.md",
+    "HL/ComputerScience/A Concepts of Computer Science/A1 Computer fundamentals/A1.2 Data representation and computer logic/A1.2.2 Binary storage of data.md",
+    "HL/ComputerScience/Books/IB DP Computer Science Course Book.pdf",
+    "HL/ComputerScience/Books/Computer Science - Paul Baumgarten, Ioana Ganea, Carl Turland - Hodder 2025 (1).pdf",
+    "Untitled.canvas",
+    "HL/ComputerScience/B Computational Thinking and Problem Solving/B2 Programming/B2.1 Programming fundamentals part 2",
+    "HL/ComputerScience/Books",
+    "HL/ComputerScience/B Computational Thinking and Problem Solving/B4 Abstract datatypes ADTs/B4.1 Fundamentals of abstract datatypes",
+    "HL/ComputerScience/B Computational Thinking and Problem Solving/B3 Object-oriented programming OOP/B3.2 Fundamentals of OOP for multiple classes",
+    "HL/ComputerScience/B Computational Thinking and Problem Solving/B3 Object-oriented programming OOP/B3.1 Fundamentals of OOP for a single class",
+    "HL/ComputerScience/B Computational Thinking and Problem Solving/B2 Programming/B2.5 File processing",
+    "HL/ComputerScience/B Computational Thinking and Problem Solving/B2 Programming/B2.4 Programming algorithms",
+    "HL/ComputerScience/B Computational Thinking and Problem Solving/B2 Programming/B2.3 Programming constructs"
+  ]
+}

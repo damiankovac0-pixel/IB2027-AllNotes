@@ -41,7 +41,7 @@ Use this as the main topic map for IB DP Computer Science.
 
 ### B1 Computational thinking
 
-- B1.1 Approaches to computational thinking
+- [[B1.1 Approaches to computational thinking|B1.1 Approaches to computational thinking]]
 
 ### B2 Programming
 

@@ -6,3 +6,5 @@ __pycache__/
 *.pyc
 # PDFs are too large for GitHub — keep local
 IBDPSchool/HL/ComputerScience/Books/*.pdf
+# Large local archives
+*.zip
